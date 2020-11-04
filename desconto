@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html class="no-js" lang="pt-br">
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+<head>
+	    <!-- Global site tag (gtag.js) - Google Analytics -->
+	    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-180743863-9"></script>
+	    <script>
+		 window.dataLayer = window.dataLayer || [];
+		 function gtag(){dataLayer.push(arguments);}
+		 gtag('js', new Date());
+
+		  gtag('config', 'UA-180743863-9');
+	    </script>
+	    <!-- END Global site tag (gtag.js) - Google Analytics -->
+		<!--LINGUAGEM-->
+		<meta charset="utf-8">
+		<!--META RESPONSIVO-->
+		<meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+		<title>XGrowUP - 10% De Desconto</title>
+		<!--ICONE-->
+		<link rel="shortcut icon" href="https://xgrowup.com/pacotes/images/1pote.png">
+		<!--ESTILO-->
+		<link rel="stylesheet" href="https://xgrowup.com/pacotes/css/style.css">
+		<!--SCRIPT DATA-->
+		<script language=javascript type="text/javascript">
+		dayName = new Array ("domingo", "Segunda-feira", "Terça-feira", "Quarta-feira", "Quinta-feira", "Sexta-feira", "sábado")
+		monName = new Array ("janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto","setembro", "outubro", "novembro", "dezembro")
+		now = new Date
+		</script>
+
+</head>
+
+	<body class="pacotes desconto">
+			
+<!-- SEC 1 -->
+		<header id="header">
+			<div class="container">
+				<p>Devido ao excesso de pedidos causado pelas reportagens nos programas Bem Estar e Mais Você da Rede Globo, temos uma quantidade limitada de potes prontos para serem despachados hoje: <script language=javascript type="text/javascript">document.write ("<u>" + dayName[now.getDay() ] + ", " + now.getDate () + " de " + monName [now.getMonth() ]   +  " de "  +     now.getFullYear () + ". </u>")</script></p>
+			</div>
+		</header>
+<!-- SEC 1 -->
+
+<!-- SEC 2 -->
+
+
+		<section id="discount">
+			<div class="container">
+				<div class="col-left">
+					<div class="title">Parabéns! Você ganhou <span>10% de desconto</span></div>
+				</div><!-- left -->
+				<div class="col-right">
+					<div class="title">Essa oferta termina em...</div>
+					<div class="counter">
+						implementar depois
+					</div>
+				</div><!-- right -->
+			</div>
+		</section><!-- discount -->
+<!-- SEC 2 -->
+
+<!-- SEC 3 -->
+
+		<section id="packs">
+			<div class="container">
+				<div class="row">
+					<div class="col pack1">
+						<div class="item"><a href="https://app.monetizze.com.br/r/APD3858984?u=c&pl=UX45305&src=cr08un01fretfree10git">
+							<div class="title">Leve 1 pote de XGrowUP</div>
+							<div class="subtitle">Ganhe 10% de desconto</div>
+							<div class="image"><img src="https://xgrowup.com/pacotes/images/1pote.png" alt="Leve 2 potes de XGrowUP" title="Leve 2 potes de XGrowUP" class="img-fluid img-center"></div>
+							<div class="from">de <span>R$218,88</span></div>
+							<div class="to">
+								<span>Por apenas</span><br>
+								12x <small>de</small> <sub>R$</sub>17<sup>,73</sup>
+							</div>
+							<div class="more">Quero comprar</div>
+						</a></div>
+					</div>
+					<div class="col pack2">
+						<div class="item"><a href="https://app.monetizze.com.br/r/APD3858984?u=c&pl=FX45306&src=cr08un03fretfree10git">
+							<div class="title">Leve 3 potes de XGrowUP</div>
+							<div class="subtitle">Ganhe 60% de desconto</div>
+							<div class="image"><img src="https://xgrowup.com/pacotes/images/3potes.png" alt="Leve 4 potes de XGrowUP" title="Leve 4 potes de XGrowUP" class="img-fluid img-center"></div>
+							<div class="from">de <span>R$656,64</span></div>
+							<div class="to">
+								<span>Por apenas</span><br>
+								12x <small>de</small> <sub>R$</sub>26<sup>,73</sup>
+							</div>
+							<div class="more">Quero comprar</div>
+							<div class="obs">Este pacote é o mais vendido do site e com o maior procura dos clientes!</div>
+						</a></div>
+					</div>
+					<div class="col pack3">
+						<div class="item"><a href="https://app.monetizze.com.br/r/APD3858984?u=c&pl=UP45307&src=cr08un05fretfree10git">
+							<div class="title">Leve 5 potes de XGrowUP</div>
+							<div class="subtitle">Ganhe 70% de desconto</div>
+							<div class="image"><img src="https://xgrowup.com/pacotes/images/5potes.png" alt="Leve 6 potes de XGrowUP" title="Leve 6 potes de XGrowUP" class="img-fluid img-center"></div>
+							<div class="from">de <span>R$1.094,40</span></div>
+							<div class="to">
+								<span>Por apenas</span><br>
+								12x <small>de</small> <sub>R$</sub>35<sup>,73</sup>
+							</div>
+							<div class="more">Quero comprar</div>
+						</a></div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+<!-- SEC 3 -->
+
+<!-- SEC 4 -->
+
+		<section id="stamps">
+			<div class="container">
+				<ul>
+					<li><img src="https://xgrowup.com/pacotes/images/ico_feature_1.png" alt="Sigilo garantido" title="Sigilo garantido"><p><b>Sigilo</b> garantido</p></li>
+					<li><img src="https://xgrowup.com/pacotes/images/ico_feature_2.png" alt="Frete rápido" title=Frete rápido""><p><b>Frete</b> rápido</p></li>
+					<li><img src="https://xgrowup.com/pacotes/images/ico_feature_3.png" alt="Privacidade 100% protegida" title="Privacidade 100% protegida"><p><b>Privacidade</b> 100% protegida</p></li>
+					<li><img src="https://xgrowup.com/pacotes/images/ico_feature_4.png" alt="Compra 100% segura" title="Compra 100% segura"><p><b>Compra</b> 100% segura</p></li>
+					<li><img src="https://xgrowup.com/pacotes/images/ico_feature_5.png" alt="Satisfação garantida" title="Satisfação garantida"><p><b>Satisfação</b> garantida</p></li>
+				</ul>
+			</div>
+		</section>
+
+<!-- SEC 4 -->
+
+<!-- SEC 5 -->
+
+		<section id="payment-safe">
+			<div class="container">
+				<div class="col-left">
+					<div class="item">
+						<div class="title">Formas de <b>Pagamento</b></div>
+						<img src="https://xgrowup.com/pacotes/images/img_payment.png" alt="Formas de Pagamento" title="Formas de Pagamento">
+					</div>
+				</div><!-- left -->
+				<div class="col-right">
+					<div class="item">
+						<div class="title">Compre com <b>Segurança</b></div>
+						<img src="https://xgrowup.com/pacotes/images/img_safe.png" alt="Compre com Segurança" title="Compre com Segurança">
+					</div>
+				</div><!-- right -->
+			</div>
+		</section>
+
+<!-- SEC 5 -->
+
+<!-- FOOTER -->
+
+		<footer id="footer">
+			<div class="container">
+				<div class="col-left">
+					<strong>© Copyright XGrowUP 2019 - Todos os direitos reservados</strong>
+					<br><span>XGrowUP Comércio de produtos LTDA</span>
+									</div><!-- left -->
+			</div>
+		</footer>
+
+<!-- FOOTER -->
+
+
+		<script type="text/javascript" src="https://xgrowup.com/pacotes/js/jquery.min.js"></script>
+		<script type="text/javascript" src="https://xgrowup.com/pacotes/js/slick.min.js"></script>
+		<script type="text/javascript" src="https://xgrowup.com/pacotes/js/exit.min.js"></script>
+		<script type="text/javascript" src="https://xgrowup.com/pacotes/js/cookie.min.js"></script>
+		<script type="text/javascript" src="https://xgrowup.com/pacotes/js/timer.min.js"></script>
+		<script type="text/javascript" src="https://xgrowup.com/pacotes/js/modernizr.min.js"></script>
+		<script type="text/javascript" src="https://xgrowup.com/pacotes/js/functions.js"></script>
+		<script type="text/javascript" src="https://xgrowup.com/pacotes/js/backredirect3.js"></script>
+<style>
+
+    .zap {
+        display: block !important;
+    	z-index:100;
+		position:fixed;
+		bottom:0;
+		right:0;
+		width:80px;
+    }
+
+
+</style>
+
+
+<div class="zap"> 
+<a href="https://api.whatsapp.com/send?phone=5511975651354&text=TENHO%20UMA%20DUVIDA%20SOBRE%20O%20XGROW%20UP" target="_blank"><img src="https://xgrowup.com/pacotes/images/zap-icone.png" width="70px"></a>
+</div>
+	</body>
+<iframe src="https://app.monetizze.com.br/r/APD3858984/?u=AA40984&src=cookie2" width="1px" height="1px" style="display: none;"></iframe>
+</html>
